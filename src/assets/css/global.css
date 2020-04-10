@@ -1,0 +1,24 @@
+html,body,#app{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    /* min-width: 1366px; */
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.el-card{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+    background-color: #deebee6e;
+}
+.el-table{
+    font-size: 15px;
+    margin-top: 15px;
+}
+.el-pagination{
+    margin-top: 15px;
+}
+.ql-editor{
+    min-height: 200px;
+}
